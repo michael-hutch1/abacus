@@ -1,4 +1,5 @@
 # abacus
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/michael-hutch1/abacus/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/michael-hutch1/abacus/tree/main)
 a command line based calculator
 
 ### getting started
